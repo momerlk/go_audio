@@ -1,7 +1,7 @@
 package main
 
 import (
-	"goAudio/audio"
+	"github.com/dragonmaster101/go_audio/audio"
 	"time"
 	"fmt"
 )
