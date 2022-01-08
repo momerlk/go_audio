@@ -1,4 +1,4 @@
-module goAudio
+module github.com/dragonmaster101/go_audio
 
 go 1.16
 
