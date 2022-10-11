@@ -9,7 +9,8 @@
 
 ### Audio Capture
 
-``` 
+```golang
+ 
 r := &audio.Recorder{}
 
 r.Init("./test.wav");
